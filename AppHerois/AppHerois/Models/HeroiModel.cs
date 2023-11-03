@@ -1,0 +1,16 @@
+﻿namespace AppHerois.Models
+{
+    public class HeroiModel
+    {
+        public HeroiModel()
+        {
+            Id = Guid.NewGuid();
+        }
+        public Guid Id { get; set; }
+        public string Nome { get; set; }
+        public string NomeHeroi { get; set; }
+        public DateTime DataNascimento { get; set; }
+        public double Altura { get; set; }
+        public double Peso { get; set; }
+    }
+}
