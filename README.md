@@ -9,7 +9,7 @@ API desenvolvida usando Net 6.0
 
 Usei como base um curso que relaizei de Dotnet 6 via Udemy. Nele há também maneiras de criar métodos de autenticação, mas eu não implementei nesse código. 
 Tentei manter uma estrutura de aplicação organizada, separando as classes em pastas, nomeando de acordo com seu contexto e sempre mantendo tudo dentro de sua determinada camada. 
-Para o banco de dados optei por usar o PostreSQL, pois estou bem ambientado com ele e gosto da forma com que ele funciona.
+Para o banco de dados optei por usar o PostreSQL, pois estou bem ambientado com ele e gosto da forma com que ele funciona. Utilizei de migrations para criação de banco, assim todas os scripts para criar o banco estão dentro do projeto na pasta Migrations.
 No front eu comecei uma aplicação Angular 16, cheguei a criar alguns componentes mas já passou das 00h e amanhã preciso trabalhar, então n vou conseguir terminar :(
 
 De qualquer forma, agradeço a oportunidade de participar do processo e independete do resultado estou satisfeito. 
